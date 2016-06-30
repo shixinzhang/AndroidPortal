@@ -29,7 +29,8 @@ A portal site for Android learning. Android 学习资源的收录总结
 # 4. 一些重点专题
  1. [Android 架构1](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
  2. [Android 架构2](https://github.com/Juude/Awesome-Android-Architecture)
- 3. [自定义View: RecyclerView总结]()
+ 3. [控件源码解析](http://blog.csdn.net/column/details/androidview.html)
+ 4. [系统源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
  
 ## 5. 一些其他值得看内容的博客，顺便记在这了
  1. [阮一峰 技术+时事](http://www.ruanyifeng.com/blog/)
