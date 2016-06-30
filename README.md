@@ -38,4 +38,3 @@ A portal site for Android learning. Android 学习资源的收录总结
  3. [刘未鹏 思维改变生活](http://mindhacks.cn/2015/01/27/escape-from-your-shawshank-part5-2-platos-cave/)
  3. [纯银V 产品](http://www.jianshu.com/users/c22ccc510fb9/latest_articles)
 
-### PS: 由于个人水平及时间问题，可能会有疏漏之处，希望各位朋友提 Issues 一起改进，谢谢
