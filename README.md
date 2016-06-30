@@ -12,36 +12,36 @@ A portal site for Android learning. Android 学习资源的收录总结
 5. 一些其他内容的博客
 
 # 1. 了解实时更新的 Android 动态
- 1). [Android 开发者官网](https://developer.android.com/develop/index.html)
- 2). [AndroidWeekly 国内](http://www.androidweekly.cn/)
- 3). [干货集中营 gank.io](http://gank.io/)
- 4). [Google+: Android Developers](https://plus.google.com/u/0/communities/105153134372062985968)
- 5). [Facebook: Android Official](https://www.facebook.com/AndroidOfficial/?ref=ts&fref=ts)
- 6). [CSDN: Android开发者](http://geek.csdn.net/forum/65)
- 7). [稀土掘金 Android](http://gold.xitu.io/explore/android)
+ 1. [Android 开发者官网](https://developer.android.com/develop/index.html)
+ 2. [AndroidWeekly 国内](http://www.androidweekly.cn/)
+ 3. [干货集中营 gank.io](http://gank.io/)
+ 4. [Google+: Android Developers](https://plus.google.com/u/0/communities/105153134372062985968)
+ 5. [Facebook: Android Official](https://www.facebook.com/AndroidOfficial/?ref=ts&fref=ts)
+ 6. [CSDN: Android开发者](http://geek.csdn.net/forum/65)
+ 7. [稀土掘金 Android](http://gold.xitu.io/explore/android)
  
 # 2. 各种官方、大牛博客 
- 1). [Android 官方文档国内镜像](http://wear.techbrood.com/)
- 2). [JakeWharton 做Android的都认识](http://jakewharton.com/)
+ 1. [Android 官方文档国内镜像](http://wear.techbrood.com/)
+ 2. [JakeWharton 做Android的都认识](http://jakewharton.com/)
  
 # 3. 各阶段需要学习内容
 
 # 4. 一些重点专题
-## 1). 架构
- a. [Android 架构1](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
- b. [Android 架构2](https://github.com/Juude/Awesome-Android-Architecture)
+## 1. 架构
+ (1). [Android 架构1](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+ (2). [Android 架构2](https://github.com/Juude/Awesome-Android-Architecture)
  
-## 2). 源码解析
- a. [控件源码解析](http://blog.csdn.net/column/details/androidview.html)
- b. [系统源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
- c. [达庆凯源码解析文章](http://www.jianshu.com/users/9038233c5f2c/latest_articles)
+## 2. 源码解析
+ (1). [控件源码解析](http://blog.csdn.net/column/details/androidview.html)
+ (2). [系统源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+ (3). [达庆凯源码解析文章](http://www.jianshu.com/users/9038233c5f2c/latest_articles)
 
-## 3). 成熟框架解析 
- a. [第三方网络框架解析 -- volley](http://blog.csdn.net/crazy__chen/article/details/46483329)
+## 3. 成熟框架解析 
+ (1). [第三方网络框架解析 -- volley](http://blog.csdn.net/crazy__chen/article/details/46483329)
  
 # 5. 一些其他值得看内容的博客，顺便记在这了
- 1). [阮一峰 技术+时事](http://www.ruanyifeng.com/blog/)
- 2). [黑苹果 互联网时事](http://www.zhangchenghui.com/)
- 3). [刘未鹏 思维改变生活](http://mindhacks.cn/2015/01/27/escape-from-your-shawshank-part5-2-platos-cave/)
- 4). [纯银V 产品](http://www.jianshu.com/users/c22ccc510fb9/latest_articles)
+ (1). [阮一峰 技术+时事](http://www.ruanyifeng.com/blog/)
+ (2). [黑苹果 互联网时事](http://www.zhangchenghui.com/)
+ (3). [刘未鹏 思维改变生活](http://mindhacks.cn/2015/01/27/escape-from-your-shawshank-part5-2-platos-cave/)
+ (4). [纯银V 产品](http://www.jianshu.com/users/c22ccc510fb9/latest_articles)
 
