@@ -27,13 +27,19 @@ A portal site for Android learning. Android 学习资源的收录总结
 # 3. 各阶段需要学习内容
 
 # 4. 一些重点专题
+## 1. 架构
  1. [Android 架构1](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
  2. [Android 架构2](https://github.com/Juude/Awesome-Android-Architecture)
- 3. [控件源码解析](http://blog.csdn.net/column/details/androidview.html)
- 4. [系统源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
- 5. [第三方网络框架解析 -- volley](http://blog.csdn.net/crazy__chen/article/details/46483329)
  
-## 5. 一些其他值得看内容的博客，顺便记在这了
+## 2. 源码解析
+ 1. [控件源码解析](http://blog.csdn.net/column/details/androidview.html)
+ 2. [系统源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+ 3. [达庆凯源码解析文章](http://www.jianshu.com/users/9038233c5f2c/latest_articles)
+
+## 3. 成熟框架解析 
+ 1. [第三方网络框架解析 -- volley](http://blog.csdn.net/crazy__chen/article/details/46483329)
+ 
+# 5. 一些其他值得看内容的博客，顺便记在这了
  1. [阮一峰 技术+时事](http://www.ruanyifeng.com/blog/)
  2. [黑苹果 互联网时事](http://www.zhangchenghui.com/)
  3. [刘未鹏 思维改变生活](http://mindhacks.cn/2015/01/27/escape-from-your-shawshank-part5-2-platos-cave/)
